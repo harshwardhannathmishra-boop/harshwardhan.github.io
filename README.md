@@ -1,29 +1,21 @@
-title: Rounak Mishra's Portfolio
-email: mrounak198@gmail.com
-description: >
-  A portfolio showcasing the projects and experiences of Rounak Mishra, a Computer Science and Engineering student at Galgotias University.
-baseurl: "" # Leave empty for root
-url: "https://rounakmishra06.github.io/MyPortfolio"
-twitter_username: rounakmishra06
-github_username: rounakmishra06
+# Harsh Wardhan Nath Mishra's Portfolio
 
-theme: jekyll-theme-cayman
+Welcome to my personal portfolio website! This site showcases my journey as a Computer Science and Engineering student at Galgotias University, highlighting my skills, projects, and experiences.
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+## 🚀 Features
 
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Interactive UI**: Built with HTML, CSS, and JavaScript for a dynamic user experience.
+- **Project Showcase**: Displaying various projects including web applications, AI tools, and more.
+- **Contact Form**: Allows visitors to reach out directly through the website.
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Frameworks**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Git, GitHub, Visual Studio Code, Figma, Canva
+
+## 📂 Project Structure
+
