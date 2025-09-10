@@ -3,6 +3,10 @@ Course: B.B.A.
 Contact: (+91) 9262253364
 Email: harshwardhannathmishra@gmail.com
 Linkedin: iharshwardhan
+
+
+
+
 KEY EXPERTISE
 Team Collaboration & Leadership Problem Solving & Critical Thinking
 Strong Interpersonal Skills Market Research & Data Analysis
