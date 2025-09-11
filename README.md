@@ -1,6 +1,6 @@
-# 📊 Data Analyst Portfolio – [Your Name]
+# 📊 Harsh's Portfolio – [Harsh Wardhan Nath Mishra]
 
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
+Welcome to my portfolio! I specialize in turning raw data into meaningful insights using tools like Excel. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
 ---
 
@@ -71,8 +71,8 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: [Your Email]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
+- 📧 Email: [harshwardhannathmishra@gmail.com]  
+- 🔗 LinkedIn: [ww.linkedin.com/in/harshwardhannathmishra Vanity URL name]  
 - 💻 GitHub: [GitHub Portfolio]
 
 ---
