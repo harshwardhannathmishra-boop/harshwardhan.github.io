@@ -78,7 +78,8 @@ achievement:
 - High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
 -
 ---
-[SARALA BIRLA UNIVERSITY](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true)
+(https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true)
+
 ## 📜 Certifications & Awards
 
 
