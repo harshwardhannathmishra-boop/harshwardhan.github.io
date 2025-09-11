@@ -35,7 +35,7 @@ I’m Harsh Wardhan Nath Mishra, a passionate Finance & Marketing Enthusiast bas
 
 ## ST.Michael's School (10th) [CBSE]
 
-![image alt]()
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/st%20m9ich.jpg?raw=true)
 
  ---
 
@@ -71,6 +71,8 @@ Adaptability and Willingness to Learn
 
 •
 Strong Verbal and Written Communication
+
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/skills.png?raw=true)
 
 ---
 
@@ -125,6 +127,15 @@ data validation, pivot tables/charts, data analysis, macros/VBA, and dashboard d
 Acquired foundational knowledge of generative AI concepts, including large language models, neural networks,
 prompt engineering, and practical applications of tools like ChatGPT, DALL·E, and other AI platforms.
 
+
+## Introduction to ms Excel 
+
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/ms%20excel.jpeg?raw=true)
+
+## Introduction to Generative AI 
+
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/generative%20ai.jpeg?raw=true)
+
 ---
 
 ## 📜 SEMINARS & WORKSHOPS
@@ -137,6 +148,10 @@ Social Innovation.
 • Attended WEBINAR-2025 on Advanced Data Analysis in Excel with AI conducted by SkillEcted
 
 • Attended Live Masterclass workshop-2025 on Financial Modelling conducted by EQUIGENIUS SERVICES
+
+## Advanced Data Analysis in Excel with AI
+
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/cirtificate1.jpeg?raw=true)
 
 ---
 
