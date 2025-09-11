@@ -6,59 +6,90 @@ Welcome to my portfolio! I specialize in turning raw data into meaningful insigh
 
 ## 👤 Profile Summary
 
-- 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
-- Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
-- Strong knowledge of statistical analysis and forecasting techniques
-- Experience working with cross-functional teams in agile environments
+As a driven and ambitious Bachelor of Business Administration student, I seek a dynamic role in the business sector where I can apply my knowledge of strategic management and finance. 
+Eager to contribute to organizational success, I aim to leverage my analytical thinking, strong communication skills, and collaborative mindset to deliver impactful solutions and grow both personally and professionally in a competitive environment.
 
 ---
 
 ## 🧠 Skills
 
-**Languages:** Python, R, SQL  
-**Tools & Visualization:** Excel, Looker, Tableau, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, BigQuery  
-**Cloud Platforms:** Google Cloud Platform (GCP)
+**•
+HARD SKILLS
+
+MS Excel
+
+MS Word 
+
+MS Power Point
+
+Canva
+
+Copilot
+
+Data management software (Tally Prime)
+
+SOFT SKILLS
+
+Time Management and Prioritization
+
+Adaptability and Willingness to Learn
+
+Strong Verbal and Written Communication
 
 ---
 
 ## 💼 Professional Experience
 
-**[Company Name], [Location] — [Position]**  
-*Time Period*
+**[Radisson Blu Hotel,Ranchi], [Ranchi] — [Finance Intern]**  
+*2.5 months*
 
-- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
-- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
-- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
-- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
-- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
+Prepared and analysed reports using MS Word, Excel, and PowerPoint, including outlet-wise and daily sales reports, supporting data-driven decision-making and accurate financial record maintenance.
+•
+Handled various reconciliations such as credit card, tax, and extra bed, ensuring compliance, reducing discrepancies, and improving billing and inventory accuracy.
+•
+Tested and utilized hotel management software like Micros, Opera, and Boss Net View, enhancing operational workflows and efficiency.
+•
+Developed expertise in financial processes including PCI compliance, bank chargebacks, and charge slip settlements, contributing to risk management and secure transaction handling.
+•
+Managed card amount blocking, virtual card declarations, and explored credit extension procedures, strengthening corporate finance controls and expanding knowledge in financial operations.
+
+achievement : 
 
 ---
 
 ## 📈 Featured Project
 
-### 🔍 LinkedIn Job Trends Analyzer  
-*Time Period*
 
-- Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
-- Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
-- Project impacted 200+ students, with 37 successfully landing jobs using insights
 
 ![LinkedIn Dashboard](/images/image1.png)
 ---
 
 ## 🎓 Education
 
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
+- Bachelor's in Business Administration BBA | [SARALA BIRLA UNIVERSITY] | AUGUST 2023 – MAY 2026 | GPA: 9.3
 - High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
 
+Bachelor of Business Administration (BBA) – Ongoing 2023 – 2026 Sarala Birla University
+
+CGPA: 9.33 / 10
+
+Relevant Coursework: Financial Management, Financial Accounting, Cost Accounting, Digital Marketing
+
+Higher Secondary (Class XII) 2021-- 2023 D.A.V Public School, Hehal
+
+•
+Scored 89.8%
+
+Secondary (Class X) 2021 St. Michael’s School | 2021
+
+•
+
+Scored 80%
 ---
 
 ## 📜 Certifications & Awards
 
-- Google Associate Data Practitioner Certificate  
-- Best Student Award – Classification of Healthcare Documents  
-- 4th Place – Data Analytics Hackathon (University-level)
+
 
 ---
 
