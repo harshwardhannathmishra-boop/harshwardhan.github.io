@@ -72,7 +72,7 @@ Welcome to my portfolio! I specialize in turning raw data into meaningful insigh
 ## 📬 Let’s Connect!
 
 - 📧 Email: [harshwardhannathmishra@gmail.com]  
-- 🔗 LinkedIn: [ww.linkedin.com/in/harshwardhannathmishra Vanity URL name]  
+- 🔗 LinkedIn: www.linkedin.com/in/harshwardhannathmishra 
 - 💻 GitHub: [GitHub Portfolio]
 
 ---
