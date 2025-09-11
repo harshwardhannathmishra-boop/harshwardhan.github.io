@@ -71,8 +71,8 @@ Welcome to my portfolio! I specialize in turning raw data into meaningful insigh
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: [harshwardhannathmishra@gmail.com]  
-- 🔗 LinkedIn: www.linkedin.com/in/harshwardhannathmishra 
+- 📧 Email: harshwardhannathmishra@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/harsh-wardhan-nath-mishra-9934852b9/
 - 💻 GitHub: [GitHub Portfolio]
 
 ---
