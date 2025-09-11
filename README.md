@@ -67,7 +67,7 @@ Managed card amount blocking, virtual card declarations, and explored credit ext
 
 ## CIRTIFICATE OF COMPLETION
 
-![image alt]() 
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/COMPLETION.jpg?raw=true) 
 
 ---
 
