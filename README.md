@@ -76,13 +76,15 @@ achievement:
 
 - Bachelor's in Business Administration BBA | [SARALA BIRLA UNIVERSITY] | AUGUST 2023 – MAY 2026 | GPA: 9.3
 - Higher Secondary | [D.A.V Public School,hehal,ranchi] | AUGUST 2021 – MARCH 2023 | PERCENTAGE: 89.8%
-- Secondary | [ST.Michael's School,jajpur,soparom,ranchi] | MARCH 2021 | PERCENTAGE: 80% 
+- Secondary        | [ST.Michael's School,jajpur,soparom,ranchi] | MARCH 2021 | PERCENTAGE: 80% 
 ---
 
 ## SARALA BIRLA UNIVERSITY 
-![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/download.jpeg?raw=true)
+
 ![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true)
 
+
+ 
 ## 📜 Certifications & Awards
 
 
