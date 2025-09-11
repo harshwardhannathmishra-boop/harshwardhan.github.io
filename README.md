@@ -11,6 +11,26 @@ Eager to contribute to organizational success, I aim to leverage my analytical t
 
 ---
 
+## 🎓 Education
+
+- Bachelor's in Business Administration BBA | [SARALA BIRLA UNIVERSITY] | AUGUST 2023 – MAY 2026 | GPA: 9.3
+- Higher Secondary | [D.A.V Public School,hehal,ranchi] | AUGUST 2021 – MARCH 2023 | PERCENTAGE: 89.8%
+- Secondary        | [ST.Michael's School,jajpur,soparom,ranchi] | MARCH 2021 | PERCENTAGE: 80% 
+
+---
+
+## SARALA BIRLA UNIVERSITY (BBA)
+
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true) ,       
+
+## D.A.V Public School Hehal Ranchi (12th) COMMERCE 
+
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/unnamed%20(1).webp?raw=true)
+
+
+
+ ---
+
 ## 🧠 Skills
 
 **HARD SKILLS**
@@ -65,44 +85,29 @@ Developed expertise in financial processes including PCI compliance, bank charge
 •
 Managed card amount blocking, virtual card declarations, and explored credit extension procedures, strengthening corporate finance controls and expanding knowledge in financial operations.
 
+## RADISSON BLU HOTEL RANCHI
+
+![image alt]() 
+
+---
+
 ## CIRTIFICATE OF COMPLETION
 
 ![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/COMPLETION.jpg?raw=true) 
 
 ---
 
-## 📈 Featured Project
+## LETTER OF APPRECIATION
 
-
-
-![LinkedIn Dashboard](/images/image1.png)
----
-
-## 🎓 Education
-
-- Bachelor's in Business Administration BBA | [SARALA BIRLA UNIVERSITY] | AUGUST 2023 – MAY 2026 | GPA: 9.3
-- Higher Secondary | [D.A.V Public School,hehal,ranchi] | AUGUST 2021 – MARCH 2023 | PERCENTAGE: 89.8%
-- Secondary        | [ST.Michael's School,jajpur,soparom,ranchi] | MARCH 2021 | PERCENTAGE: 80% 
+![image alt]() 
 
 ---
 
-## SARALA BIRLA UNIVERSITY (BBA)
 
-![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true) ,       
-
-## D.A.V Public School Hehal Ranchi (12th) COMMERCE 
-
-![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/unnamed%20(1).webp?raw=true)
-
-
-
- ---
- 
 ## 📜 Certifications 
 
 •Effective Speaking and Listening Skills - Wadhwani Foundation,2025
-Gained practical communication skills with a focus on active listening, effective verbal communication, public
-speaking, and interpersonal interaction in professional settings.
+Gained practical communication skills with a focus on active listening, effective verbal communication, public speaking, and interpersonal interaction in professional settings.
 
 • Introduction to MS Excel - Simplilearn/Microsoft,2025
 Successfully completed a course in Microsoft Excel, including functions, sorting/filtering, conditional formatting,
@@ -111,7 +116,6 @@ data validation, pivot tables/charts, data analysis, macros/VBA, and dashboard d
 • Introduction to Generative AI -Simplilearn/Google Cloud,2025
 Acquired foundational knowledge of generative AI concepts, including large language models, neural networks,
 prompt engineering, and practical applications of tools like ChatGPT, DALL·E, and other AI platforms.
-
 
 ---
 
@@ -134,13 +138,18 @@ Social Innovation.
 Organized by the National Statistics Office (NSO) Under the Ministry of Statistics and Programme Implementation (MOSPI)
 Selected among the 2 participants from Sarala Birla University 
 
+## CIRTIFICATE OF PARTICIPATION
 
+![image alt]() 
 ---
 
 ## ❤️ Volunteer Experience
 
-- Conducted weekend programming workshops for underprivileged high school students
-- Coordinated logistics for fundraising race events supporting children’s education
+- Coordinated INTERNATIONAL CONFERENCE-2025 
+
+## CIRTIFICATE OF VOLUNTEER EXPERIENCE
+
+![image alt]() 
 
 ---
 
@@ -152,5 +161,5 @@ Selected among the 2 participants from Sarala Birla University
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
+TO KNOW MORE YOU CAN VISIT ABOVE MENTIONED LINKS
 
