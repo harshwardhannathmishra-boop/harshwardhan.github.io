@@ -1,4 +1,4 @@
-# 📊 Harsh's Portfolio – [Harsh Wardhan Nath Mishra]
+# 📊 Harsh's Portfolio 
 
 Welcome to my portfolio! I specialize in turning raw data into meaningful insights using tools like Excel. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
@@ -8,6 +8,12 @@ Welcome to my portfolio! I specialize in turning raw data into meaningful insigh
 
 As a driven and ambitious Bachelor of Business Administration student, I seek a dynamic role in the business sector where I can apply my knowledge of strategic management and finance. 
 Eager to contribute to organizational success, I aim to leverage my analytical thinking, strong communication skills, and collaborative mindset to deliver impactful solutions and grow both personally and professionally in a competitive environment.
+
+---
+
+## 👤 ABOUT ME
+
+I’m Harsh Wardhan Nath Mishra, a passionate Finance & Marketing Enthusiast based in Ranchi, India. Currently pursuing a Bachelor of Business Administration (BBA) at Sarala Birla University with a CGPA of 9.33/10, I’m driven by curiosity, continuous learning, and data-backed decision-making. My academic focus spans Financial Management, Financial Accounting, Cost Accounting, and Digital Marketing, equipping me with the knowledge to tackle real-world business challenges.
 
 ---
 
@@ -23,11 +29,13 @@ Eager to contribute to organizational success, I aim to leverage my analytical t
 
 ![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true) ,       
 
-## D.A.V Public School Hehal Ranchi (12th) COMMERCE 
+## D.A.V Public School Hehal Ranchi (12th) COMMERCE [CBSE] 
 
 ![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/unnamed%20(1).webp?raw=true)
 
+## ST.Michael's School (10th) [CBSE]
 
+![image alt]()
 
  ---
 
@@ -36,7 +44,7 @@ Eager to contribute to organizational success, I aim to leverage my analytical t
 **HARD SKILLS**
 
 •
-MS Excel
+MS Excel 
 
 •
 MS Word 
