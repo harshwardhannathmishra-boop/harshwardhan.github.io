@@ -65,7 +65,9 @@ Developed expertise in financial processes including PCI compliance, bank charge
 •
 Managed card amount blocking, virtual card declarations, and explored credit extension procedures, strengthening corporate finance controls and expanding knowledge in financial operations.
 
-achievement: 
+## CIRTIFICATE OF COMPLETION
+
+![image alt]() 
 
 ---
 
