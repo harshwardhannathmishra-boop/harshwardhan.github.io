@@ -44,16 +44,24 @@ Strong Verbal and Written Communication
 *2.5 months*
 
 Prepared and analysed reports using MS Word, Excel, and PowerPoint, including outlet-wise and daily sales reports, supporting data-driven decision-making and accurate financial record maintenance.
+
 •
+
 Handled various reconciliations such as credit card, tax, and extra bed, ensuring compliance, reducing discrepancies, and improving billing and inventory accuracy.
+
 •
+
 Tested and utilized hotel management software like Micros, Opera, and Boss Net View, enhancing operational workflows and efficiency.
+
 •
+
 Developed expertise in financial processes including PCI compliance, bank chargebacks, and charge slip settlements, contributing to risk management and secure transaction handling.
+
 •
+
 Managed card amount blocking, virtual card declarations, and explored credit extension procedures, strengthening corporate finance controls and expanding knowledge in financial operations.
 
-achievement : 
+achievement: 
 
 ---
 
@@ -68,23 +76,7 @@ achievement :
 
 - Bachelor's in Business Administration BBA | [SARALA BIRLA UNIVERSITY] | AUGUST 2023 – MAY 2026 | GPA: 9.3
 - High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
-
-Bachelor of Business Administration (BBA) – Ongoing 2023 – 2026 Sarala Birla University
-
-CGPA: 9.33 / 10
-
-Relevant Coursework: Financial Management, Financial Accounting, Cost Accounting, Digital Marketing
-
-Higher Secondary (Class XII) 2021-- 2023 D.A.V Public School, Hehal
-
-•
-Scored 89.8%
-
-Secondary (Class X) 2021 St. Michael’s School | 2021
-
-•
-
-Scored 80%
+-
 ---
 
 ## 📜 Certifications & Awards
@@ -103,7 +95,7 @@ Scored 80%
 ## 📬 Let’s Connect!
 
 - Email: [harshwardhannathmishra@gmail.com](harshwardhannathmishra@gmail.com)
-- [www.linkedin.com/in/harshwardhannathmishra](https://in.linkedin.com/in/harsh-wardhan-nath-mishra-9934852b9)
+- Linkedin: [www.linkedin.com/in/harshwardhannathmishra](https://in.linkedin.com/in/harsh-wardhan-nath-mishra-9934852b9)
 - GitHub: [GitHub Portfolio]
 
 ---
