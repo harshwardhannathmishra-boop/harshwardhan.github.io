@@ -102,9 +102,9 @@ Scored 80%
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: [harshwardhannathmishra@gmail.com](harshwardhannathmishra@gmail.com)
-- - 🔗 [www.linkedin.com/in/harshwardhannathmishra](https://in.linkedin.com/in/harsh-wardhan-nath-mishra-9934852b9)
-- 💻 GitHub: [GitHub Portfolio]
+- Email: [harshwardhannathmishra@gmail.com](harshwardhannathmishra@gmail.com)
+- [www.linkedin.com/in/harshwardhannathmishra](https://in.linkedin.com/in/harsh-wardhan-nath-mishra-9934852b9)
+- GitHub: [GitHub Portfolio]
 
 ---
 
