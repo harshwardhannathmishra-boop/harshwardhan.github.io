@@ -99,7 +99,7 @@ Managed card amount blocking, virtual card declarations, and explored credit ext
 
 ## LETTER OF APPRECIATION
 
-![image alt]() 
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/LETTER%20OF%20APPRECIATION.jpg?raw=true) 
 
 ---
 
@@ -140,7 +140,7 @@ Selected among the 2 participants from Sarala Birla University
 
 ## CIRTIFICATE OF PARTICIPATION
 
-![image alt]() 
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/WhatsApp%20Image%202025-09-11%20at%2023.28.56_c747102d.jpg?raw=true)
 ---
 
 ## ❤️ Volunteer Experience
