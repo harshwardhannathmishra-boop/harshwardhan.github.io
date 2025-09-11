@@ -87,7 +87,7 @@ Managed card amount blocking, virtual card declarations, and explored credit ext
 
 ## RADISSON BLU HOTEL RANCHI
 
-![image alt]() 
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/2023-11-04.webp?raw=true) 
 
 ---
 
