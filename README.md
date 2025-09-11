@@ -1,8 +1,8 @@
 # 📊 Harsh's Portfolio – [Harsh Wardhan Nath Mishra]
 
-Welcome to my portfolio! I specialize in turning raw data into meaningful insights using tools like Excel. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
-
 ![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/MY%20PIC%20PASPORT%20SIZE.jpg?raw=true)
+
+Welcome to my portfolio! I specialize in turning raw data into meaningful insights using tools like Excel. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
 ---
 
