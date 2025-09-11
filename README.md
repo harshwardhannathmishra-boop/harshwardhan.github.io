@@ -81,7 +81,7 @@ achievement:
 
 ## SARALA BIRLA UNIVERSITY 
 
-![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true)
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/images%20(1).jpeg?raw=true),![image alt]()
 
 
  
