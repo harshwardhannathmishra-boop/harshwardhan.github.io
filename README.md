@@ -149,7 +149,7 @@ Selected among the 2 participants from Sarala Birla University
 
 ## CIRTIFICATE OF VOLUNTEER EXPERIENCE
 
-![image alt]() 
+![image alt](https://github.com/harshwardhannathmishra-boop/harshwardhan.github.io/blob/main/IMAGES/volunteer.jpg?raw=true) 
 
 ---
 
